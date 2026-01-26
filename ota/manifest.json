@@ -5,5 +5,3 @@
   "sha256": "05e6ce8d39a1eb7981a60afe631dcef0b3a6ab5165f786aac550ddd57154f9c3",
   "notes": "添加并行触发机制"
 }
-//
-//(Get-Item "c:\Users\admin\Desktop\AllProject\Human_perception_OTA\ota\firmware_0.0.3.bin").Length; (Get-FileHash "c:\Users\admin\Desktop\AllProject\Human_perception_OTA\ota\firmware_0.0.3.bin" -Algorithm SHA256).Hash.ToLower()
