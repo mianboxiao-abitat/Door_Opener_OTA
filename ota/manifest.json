@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "file": "firmware_0.0.2.bin",
+  "file": "firmware_0.0.3.bin",
   "size": 73744,
   "sha256": "05e6ce8d39a1eb7981a60afe631dcef0b3a6ab5165f786aac550ddd57154f9c3",
   "notes": "添加并行触发机制"
