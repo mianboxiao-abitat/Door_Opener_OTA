@@ -1,7 +1,7 @@
 {
-  "version": "0.0.8",
-  "file": "firmware_0.0.8.bin",
+  "version": "0.0.9",
+  "file": "firmware_0.0.9.bin",
   "size": 73744,
-  "sha256": "787051a4a78b5e3252e6b1659f1273fdbe6f47fecdde0a295efa435bd28e9f24",
+  "sha256": "1dc3ff9c31abd29d9124bb2768355eeb43e2bd94e0e14a2929715af7e14271ae",
   "notes": "添加并行触发机制"
 }
