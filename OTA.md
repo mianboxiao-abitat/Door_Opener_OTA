@@ -91,3 +91,5 @@
 
   Q: 是否必须做 SHA‑256？
   A: 如果 App 实现了校验，就必须提供；否则校验会失败并拒绝更新。
+
+  stat -c '%n %s' ota/firmware_0.0.7.bin && sha256sum ota/firmware_0.0.7.bin
