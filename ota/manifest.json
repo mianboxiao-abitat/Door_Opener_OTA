@@ -2,6 +2,6 @@
   "version": "0.0.8",
   "file": "firmware_0.0.8.bin",
   "size": 73744,
-  "sha256": "24befa49c5dbc70c485b6f2621b6b1d8cb790bea0fa6721d5c1fdb1570e93b71",
+  "sha256": "787051a4a78b5e3252e6b1659f1273fdbe6f47fecdde0a295efa435bd28e9f24",
   "notes": "添加并行触发机制"
 }
