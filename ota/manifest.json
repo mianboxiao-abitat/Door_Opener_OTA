@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9",
-  "file": "firmware_0.0.9.bin",
+  "version": "0.0.11",
+  "file": "firmware_0.0.11.bin",
   "size": 73744,
   "sha256": "1dc3ff9c31abd29d9124bb2768355eeb43e2bd94e0e14a2929715af7e14271ae",
-  "notes": "添加并行触发机制"
+  "notes": "testing ota update"
 }
