@@ -1,7 +1,7 @@
 {
-  "version": "0.0.11",
-  "file": "firmware_0.0.11.bin",
+  "version": "0.0.12",
+  "file": "firmware_0.0.12.bin",
   "size": 73744,
-  "sha256": "1dc3ff9c31abd29d9124bb2768355eeb43e2bd94e0e14a2929715af7e14271ae",
+  "sha256": "fa6854d835255528d88b415b6203e85bc12961567c1fc78154cceb50248c21bf",
   "notes": "testing ota update"
 }
