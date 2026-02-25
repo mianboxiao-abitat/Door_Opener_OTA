@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.2",
-  "file": "firmware_Door_Opener_0.0.2.bin",
-  "size": 67708,
-  "sha256": "5ee48c253608602f87f35c047978d14bcee9b1f0f873e088494f0384e24ccb91",
-  "notes": "恢复YAW持久化"
+  "version": "Door_Opener_0.0.3",
+  "file": "firmware_Door_Opener_0.0.3.bin",
+  "size": 67676,
+  "sha256": "2a24faf24bda77d06fd96c9ae1157423b368b1ad906c597fffa00cb5a30f616b",
+  "notes": "启用振动传感器"
 }
