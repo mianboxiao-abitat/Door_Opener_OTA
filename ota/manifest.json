@@ -1,7 +1,7 @@
 {
   "version": "Door_Opener_0.0.2",
   "file": "firmware_Door_Opener_0.0.2.bin",
-  "size": 67468,
-  "sha256": "96af1e2f43596ae24b5b19888d000a44f1453f9bb3b689c2f5951ae79567d2bf",
+  "size": 67708,
+  "sha256": "5ee48c253608602f87f35c047978d14bcee9b1f0f873e088494f0384e24ccb91",
   "notes": "恢复YAW持久化"
 }
