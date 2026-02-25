@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.1",
-  "file": "firmware_Door_Opener_0.0.1.bin",
+  "version": "Door_Opener_0.0.2",
+  "file": "firmware_Door_Opener_0.0.2.bin",
   "size": 67468,
   "sha256": "96af1e2f43596ae24b5b19888d000a44f1453f9bb3b689c2f5951ae79567d2bf",
-  "notes": "testing ota update"
+  "notes": "恢复YAW持久化"
 }
