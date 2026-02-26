@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.1",
-  "file": "firmware_Door_Lock_0.1.1.bin",
+  "version": "Door_Lock_0.1.2",
+  "file": "firmware_Door_Lock_0.1.2.bin",
   "size": 98320,
-  "sha256": "e06da3cbc4aae11d2915ecd6e979feb39a0201304dc767d554d44daf2a3003b5",
-  "notes": "修复非常开门模式下偶发性门锁无法自动关门bug"
+  "sha256": "b6e1a06aca14814eb08ffbc89b9c4c7d64eb077d0db1c9705583e4e050fd87b4",
+  "notes": "将BLE断连保活计时增加到4s"
 }
