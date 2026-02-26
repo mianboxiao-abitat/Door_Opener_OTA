@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.7",
-  "file": "firmware_Door_Opener_0.0.7.bin",
+  "version": "Door_Opener_0.0.8",
+  "file": "firmware_Door_Opener_0.0.8.bin",
   "size": 67676,
-  "sha256": "6926c93cd6509eef8bb9ceb21c5caf034f6223e76e408898461d73da6c51e0b1",
-  "notes": "延长角速度校准时间"
+  "sha256": "763145dceffe614951bd30f8579ce75e824bba414e4e2e77ae851ba01995f4ff",
+  "notes": "优化控制参数"
 }
