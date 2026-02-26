@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.3",
-  "file": "firmware_Door_Opener_0.0.3.bin",
+  "version": "Door_Opener_0.0.5",
+  "file": "firmware_Door_Opener_0.0.5.bin",
   "size": 67676,
   "sha256": "2a24faf24bda77d06fd96c9ae1157423b368b1ad906c597fffa00cb5a30f616b",
-  "notes": "启用振动传感器"
+  "notes": "test"
 }
