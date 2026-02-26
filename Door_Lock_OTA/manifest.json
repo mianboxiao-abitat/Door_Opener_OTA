@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.0",
-  "file": "firmware_Door_Lock_0.1.0.bin",
+  "version": "Door_Lock_0.1.1",
+  "file": "firmware_Door_Lock_0.1.1.bin",
   "size": 98320,
-  "sha256": "8e2d3d29083a4618b77ffd94c9c7a425e2484f91f2cd4228fb3eb7a4d4676b92",
-  "notes": "无"
+  "sha256": "e06da3cbc4aae11d2915ecd6e979feb39a0201304dc767d554d44daf2a3003b5",
+  "notes": "修复非常开门模式下偶发性门锁无法自动关门bug"
 }
