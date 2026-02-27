@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.9",
-  "file": "firmware_Door_Opener_0.0.9.bin",
-  "size": 67824,
-  "sha256": "43ef70849351c1c0e1adf659f01c7a94a007690101934e5029fc35e53579a5f3",
+  "version": "Door_Opener_0.0.10",
+  "file": "firmware_Door_Opener_0.0.10.bin",
+  "size": 67828,
+  "sha256": "25ba431241003dc7e4ee3cc531bcf379eb4b41bf130064f0db2cdaccd803e5e3",
   "notes": "添加按钮适配"
 }
