@@ -1,6 +1,6 @@
 {
-  "version": "Door_Lock_0.1.4",
-  "file": "firmware_Door_Lock_0.1.4.bin",
+  "version": "Door_Lock_0.1.5",
+  "file": "firmware_Door_Lock_0.1.5.bin",
   "size": 98320,
   "sha256": "fe2a2e960565246ef8fb7a94ceb23c9cbf0004c6aa58cb5499e15d21c6e1bf25",
   "notes": "多设备连接机制适配"
