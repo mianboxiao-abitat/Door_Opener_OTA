@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.18",
-  "file": "firmware_Door_Opener_0.0.18.bin",
-  "size": 67888,
-  "sha256": "01dd2d0c993cf94ba032021293f666dbf8ff141aaea5a627b337b331f68822ec",
-  "notes": "添加按钮适配"
+  "version": "Door_Opener_0.0.19",
+  "file": "firmware_Door_Opener_0.0.19.bin",
+  "size": 67884,
+  "sha256": "0774dc0fa5689bc3654fcd84a6106d1fdd43c7c1601b6f525c5871ef101f605a",
+  "notes": "多设备连接机制适配"
 }
