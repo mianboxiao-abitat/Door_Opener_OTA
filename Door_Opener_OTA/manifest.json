@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.21",
-  "file": "firmware_Door_Opener_0.0.21.bin",
+  "version": "Door_Opener_0.0.22",
+  "file": "firmware_Door_Opener_0.0.22.bin",
   "size": 67948,
-  "sha256": "e1f8285c0bb986e54f6ce1579c5a660514ec71494ea6b6bba64e5679d82d0d50",
-  "notes": "调整推拉门算法参数"
+  "sha256": "c94a90e24b038799e6f1740329e9487ab7d57f4df8a8664a03c1b50fda9e0cf7",
+  "notes": "解决部分逻辑bug"
 }
