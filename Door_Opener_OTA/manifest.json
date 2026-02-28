@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.19",
-  "file": "firmware_Door_Opener_0.0.19.bin",
-  "size": 67884,
-  "sha256": "0774dc0fa5689bc3654fcd84a6106d1fdd43c7c1601b6f525c5871ef101f605a",
-  "notes": "多设备连接机制适配"
+  "version": "Door_Opener_0.0.20",
+  "file": "firmware_Door_Opener_0.0.20.bin",
+  "size": 67948,
+  "sha256": "2ba280fdd27ca1e49f86caf490e68c13baf348748ca64e31bb2e6f250f1e2485",
+  "notes": "修复开门机yaw角度持久化的部分逻辑漏洞"
 }
