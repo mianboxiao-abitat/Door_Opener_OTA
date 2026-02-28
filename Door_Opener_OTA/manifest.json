@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.20",
-  "file": "firmware_Door_Opener_0.0.20.bin",
+  "version": "Door_Opener_0.0.21",
+  "file": "firmware_Door_Opener_0.0.21.bin",
   "size": 67948,
-  "sha256": "2ba280fdd27ca1e49f86caf490e68c13baf348748ca64e31bb2e6f250f1e2485",
-  "notes": "修复开门机yaw角度持久化的部分逻辑漏洞"
+  "sha256": "e1f8285c0bb986e54f6ce1579c5a660514ec71494ea6b6bba64e5679d82d0d50",
+  "notes": "调整推拉门算法参数"
 }
