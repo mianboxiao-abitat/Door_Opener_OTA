@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.32",
-  "file": "firmware_Door_Opener_0.0.32.bin",
-  "size": 67884,
-  "sha256": "c38e4126213da11f5deb959f8da99e8d6b47230337b1a4c02180f93868a47d69",
+  "version": "Door_Opener_0.0.33",
+  "file": "firmware_Door_Opener_0.0.33.bin",
+  "size": 67820,
+  "sha256": "f30f1fbc19a43da913b4004778d95be693626263dbbe6bee192e07d71669d9d9",
   "notes": "解决部分逻辑bug"
 }
