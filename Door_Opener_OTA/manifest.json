@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.41",
-  "file": "firmware_Door_Opener_0.0.41.bin",
-  "size": 71360,
-  "sha256": "fafc57b5c05f971a7d01a1e4f2c8aa2f7091b3d5769a3ce7ff151ec94928f651",
+  "version": "Door_Opener_0.0.42",
+  "file": "firmware_Door_Opener_0.0.42.bin",
+  "size": 71320,
+  "sha256": "5a32ee7c635cba1d8efb716d1bb1798ec4dcc6f9fb2a73f80d00f5440b646128",
   "notes": "Kol beta 0.1"
 }
