@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.8",
-  "file": "firmware_Door_Lock_0.1.8.bin",
+  "version": "Door_Lock_0.1.9",
+  "file": "firmware_Door_Lock_0.1.9.bin",
   "size": 98320,
-  "sha256": "6e6f90f4ca20783d87cd6e0a6d64b112eab9ce1f0d1d9ac0bf74b74df31327c8",
-  "notes": "解决部分逻辑bug"
+  "sha256": "0352a39487b9160e9c721a825907b746b37dae46280e28da74d1e8ecf2b1a894",
+  "notes": "Kol beta 0.1"
 }
