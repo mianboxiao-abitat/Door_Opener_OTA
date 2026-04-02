@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.10",
-  "file": "firmware_Door_Lock_0.1.10.bin",
+  "version": "Door_Lock_0.1.11",
+  "file": "firmware_Door_Lock_0.1.11.bin",
   "size": 98320,
-  "sha256": "7ac0eb6f88c801fe5eb97053f157e1d96bce91183575554d7d8ac3cf971301bd",
-  "notes": "扩充蓝牙指令接收队列"
+  "sha256": "4891f2a25be99fdc5ad15d8f8148fa2e39134f84d706b0aa1f15a2eec34ce6aa",
+  "notes": "修改DEBUG帧数据结构"
 }
