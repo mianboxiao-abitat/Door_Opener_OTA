@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.44",
-  "file": "firmware_Door_Opener_0.0.44.bin",
-  "size": 71800,
-  "sha256": "bb48a9d6dd523308bab42d3ad52fb3f364c7dd7e905683f930ef4d04d34fbd8b",
-  "notes": "Kol beta 0.1"
+  "version": "Door_Opener_0.0.45",
+  "file": "firmware_Door_Opener_0.0.45.bin",
+  "size": 72992,
+  "sha256": "abeccfce5b2eb9756bdcf402b7c3da145bee3eee5b53a7fa5742aff69125f0ba",
+  "notes": "添加门体重量惯性估计运动控制算法"
 }
