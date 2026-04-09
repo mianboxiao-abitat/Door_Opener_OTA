@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.11",
-  "file": "firmware_Door_Lock_0.1.11.bin",
+  "version": "Door_Lock_0.1.12",
+  "file": "firmware_Door_Lock_0.1.12.bin",
   "size": 98320,
-  "sha256": "4891f2a25be99fdc5ad15d8f8148fa2e39134f84d706b0aa1f15a2eec34ce6aa",
-  "notes": "修改DEBUG帧数据结构"
+  "sha256": "d3c88ce725e30a1e379e67d5ae655a5b81ebc6aff22a4d4ad30e0c269144ef2a",
+  "notes": "修复APP偶发无法控制门锁bug"
 }
