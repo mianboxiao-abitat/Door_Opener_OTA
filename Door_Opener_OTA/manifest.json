@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.46",
-  "file": "firmware_Door_Opener_0.0.46.bin",
-  "size": 73152,
-  "sha256": "8238622e06401f2128ff1ce8d075171dd159665d83b3e959e743fc5f91e87396",
+  "version": "Door_Opener_0.0.47",
+  "file": "firmware_Door_Opener_0.0.47.bin",
+  "size": 73136,
+  "sha256": "455f7e541cf6e6862b7baaec8784bcbfe08628abd3745de5350d519af74b72a9",
   "notes": "门体质量因子控制对齐至开门行程(待测试)"
 }
