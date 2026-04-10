@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.45",
-  "file": "firmware_Door_Opener_0.0.45.bin",
-  "size": 72992,
-  "sha256": "abeccfce5b2eb9756bdcf402b7c3da145bee3eee5b53a7fa5742aff69125f0ba",
-  "notes": "添加门体重量惯性估计运动控制算法"
+  "version": "Door_Opener_0.0.46",
+  "file": "firmware_Door_Opener_0.0.46.bin",
+  "size": 73152,
+  "sha256": "8238622e06401f2128ff1ce8d075171dd159665d83b3e959e743fc5f91e87396",
+  "notes": "门体质量因子控制对齐至开门行程(待测试)"
 }
