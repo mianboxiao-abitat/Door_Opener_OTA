@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.50",
-  "file": "firmware_Door_Opener_0.0.50.bin",
+  "version": "Door_Opener_0.0.51",
+  "file": "firmware_Door_Opener_0.0.51.bin",
   "size": 74720,
-  "sha256": "22ccdd4e3bd41a65ea468ad46de53f5f9d32b7d2f0bb2d18f8502e63e764cbfb",
+  "sha256": "f4e4f067ee21d645cedc06250b29c58f87ea8cf817a7479d9136339c65904976",
   "notes": "修复一些小bug"
 }
