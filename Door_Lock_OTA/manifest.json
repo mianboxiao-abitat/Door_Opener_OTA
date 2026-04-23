@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.15",
-  "file": "firmware_Door_Lock_0.1.15.bin",
+  "version": "Door_Lock_0.1.16",
+  "file": "firmware_Door_Lock_0.1.16.bin",
   "size": 98320,
-  "sha256": "e2a870349d780e951c36fa6d4e692d1298ba2998d646f9b7f42fa0f9467b4b56",
-  "notes": "修复门锁与APP异常断连(待测试)"
+  "sha256": "e1075bf0491adf7a149e37f81648ff741640292361d166831f964f0ffcf1c074",
+  "notes": "修改门锁数据持久化机制"
 }
