@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.48",
-  "file": "firmware_Door_Opener_0.0.48.bin",
-  "size": 73136,
-  "sha256": "76fc345c6bae0b4e040ecf63d460a2f6a3d300d86951611022fca11787095e4e",
-  "notes": "降低关门负载系数下限"
+  "version": "Door_Opener_0.0.49",
+  "file": "firmware_Door_Opener_0.0.49.bin",
+  "size": 74720,
+  "sha256": "c9a7ca62281726d5f757277156fca024755100d63f4d81bf6568f993491a391b",
+  "notes": "修复一些小bug"
 }
