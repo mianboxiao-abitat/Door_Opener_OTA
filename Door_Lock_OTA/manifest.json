@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.20",
-  "file": "firmware_Door_Lock_0.1.20.bin",
+  "version": "Door_Lock_0.1.21",
+  "file": "firmware_Door_Lock_0.1.21.bin",
   "size": 98320,
-  "sha256": "e0a0477a60ea9b0d176fb48f5e369332832a6c31e4250ad3507cec5469b9f764",
-  "notes": "修复一些小bug"
+  "sha256": "2ae42deb2e4834e1bf38af257ca1c076804358b76da4ae8b9c1f13d705e80ae3",
+  "notes": "添加APP定义门锁是否常开"
 }
