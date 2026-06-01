@@ -1,7 +1,7 @@
 {
-  "version": "Door_Lock_0.1.37",
-  "file": "firmware_Door_Lock_0.1.37.bin",
+  "version": "Door_Lock_0.1.38",
+  "file": "firmware_Door_Lock_0.1.38.bin",
   "size": 98320,
-  "sha256": "d545dc3069cc9be68570fb819b00b7a3bccabcae33dc2628263bc256eab44ee6",
+  "sha256": "fa8f1361699e3873100a04e7ad005e1f45b98a56bb23812fce3f06cdd615841c",
   "notes": "Fix"
 }
