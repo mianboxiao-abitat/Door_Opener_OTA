@@ -1,7 +1,7 @@
 {
-  "version": "Door_Opener_0.0.101",
-  "file": "firmware_Door_Opener_0.0.101.bin",
-  "size": 81748,
-  "sha256": "6558881ddf6919a58b8963efc21540146ab7c6fd50903a30ec799f862fe4ba4a",
+  "version": "Door_Opener_0.0.102",
+  "file": "firmware_Door_Opener_0.0.102.bin",
+  "size": 81860,
+  "sha256": "2d366d5459c7b230e1a22b7070109d8685678f4e280d532ca2a2dd6d6711e891",
   "notes": "Fix"
 }
